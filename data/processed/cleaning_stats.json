@@ -1,0 +1,24 @@
+{
+  "raw_rows": 7831,
+  "unparseable": 8,
+  "duplicate_rows_merged": 137,
+  "conflicting_labels_set_missing": {
+    "NR-AR": 4,
+    "NR-AR-LBD": 2,
+    "NR-AhR": 4,
+    "NR-Aromatase": 1,
+    "NR-ER": 10,
+    "NR-ER-LBD": 5,
+    "NR-PPAR-gamma": 1,
+    "SR-ARE": 13,
+    "SR-ATAD5": 5,
+    "SR-HSE": 9,
+    "SR-MMP": 4,
+    "SR-p53": 2
+  },
+  "final_molecules": 7686,
+  "labels_before_merge": 77864,
+  "labels_after_merge": 76536,
+  "unique_scaffolds": 2280,
+  "acyclic_molecules": 1739
+}
