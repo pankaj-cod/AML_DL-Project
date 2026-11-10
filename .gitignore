@@ -2,3 +2,6 @@
 __pycache__/
 .ipynb_checkpoints/
 data/processed/graphs.pt
+
+# Presenter-only material (cue sheets, viva prep) — never pushed
+report/private/
